@@ -1,0 +1,25 @@
+.tari {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+
+.tara {
+    display: block;
+    margin-right: 20px;
+    background-color: rgb(220, 229, 255);
+    text-decoration: none;
+    height: fit-content;
+}
+
+
+.tara img {
+    width: 300px;
+}
+
+.tara h4 {
+    margin: 0;
+    padding: 10px;
+    padding-bottom: 13px;
+    color: #000000;
+}
